@@ -58,8 +58,6 @@ export default {
 		border-bottom: 1px solid #feb900;
 		height: .8rem;
     line-height: .8rem;
-    
-		
     input {color: #feb900;}
     input:focus{
       outline: none;  
@@ -112,10 +110,8 @@ export default {
 		display: block;
 		line-height: .8rem;
 	}
-	
 	.item-text.tac,
 	.item-submit {padding-bottom: 0;}
-
 	.regBtnGray {
 		background: #cdcdcd;
 	}
