@@ -41,9 +41,9 @@ export default {
 		background-size: cover;
 		height: 3.84rem;
 		display: -webkit-box;
-		  display: -webkit-flex;
-		  display: box;
-		  display: flex;
+		display: -webkit-flex;
+		display: box;
+		display: flex;
 		justify-content: center;
 		-webkit-justify-content: center;
 		align-items: center;
