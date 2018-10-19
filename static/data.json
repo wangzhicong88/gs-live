@@ -1,0 +1,64 @@
+[
+    {
+            "sClassName": "五步落地教学法项目测试培训课（勿转勿报）",
+            "_live":[
+                {
+                    "lessonLiveRoomId":1, 
+                    "lessonTitel": "结束-孔子", 
+                    "teacName": "李老师", 
+                    "downUrl1": "http://www.gaosiedu.com/", 
+                    "downUrl2": "http://search.gaosiedu.com/", 
+                    "liveUrl": "http://www.91haoke.com", 
+                    "lessonLiveBeginTime":"1537439400", 
+                    "lessonLiveEndTime":"1599989600"
+                },
+                {
+                    "lessonLiveRoomId":1, 
+                    "lessonTitel": "结束-孔子", 
+                    "teacName": "李老师", 
+                    "downUrl1": "http://www.gaosiedu.com/", 
+                    "downUrl2": "http://search.gaosiedu.com/", 
+                    "liveUrl": "http://www.91haoke.com", 
+                    "lessonLiveBeginTime":"1536637200", 
+                    "lessonLiveEndTime":"1537638200"
+                },
+                {
+                    "lessonLiveRoomId":1, 
+                    "lessonTitel": "结束-孔子", 
+                    "teacName": "李老师", 
+                    "downUrl1": "http://www.gaosiedu.com/", 
+                    "downUrl2": "http://search.gaosiedu.com/", 
+                    "liveUrl": "http://www.91haoke.com", 
+                    "lessonLiveBeginTime":"1535774400", 
+                    "lessonLiveEndTime":"1535774600"
+                }
+            ]
+    },
+    {
+            
+        "sClassName": "五步落地教学法项目测试培训课（勿转勿报）",
+        "_live":[
+            {
+                
+                "lessonLiveRoomId":1, 
+                "lessonTitel": "结束1-孔子", 
+                "teacName": "李老师", 
+                "downUrl1": "http://www.gaosiedu.com/", 
+                "downUrl2": "http://search.gaosiedu.com/", 
+                "liveUrl": "http://www.91haoke.com", 
+                "lessonLiveBeginTime":"1535886000", 
+                "lessonLiveEndTime":"1535889600"
+            },
+            {
+                "lessonLiveRoomId":1, 
+                "lessonTitel": "结束2-孔子", 
+                "teacName": "李老师", 
+                "downUrl1": "http://www.gaosiedu.com/", 
+                "downUrl2": "http://search.gaosiedu.com/", 
+                "liveUrl": "http://www.91haoke.com", 
+                "lessonLiveBeginTime":"1535886000", 
+                "lessonLiveEndTime":"1535889600"
+            }
+        ]
+}
+]
